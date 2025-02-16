@@ -52,7 +52,10 @@ ScrollReveal().reveal('.home-content h1 , .about-img', { origin: 'left'});
 ScrollReveal().reveal('.home-content p , .about-content', { origin: 'right'});
 /* ======================================== typed js  ======================================== */
 const typed=new Typed('.multiple-text',{
-    strings: ['Frontend Developer!','Competitive Programmer!','Electronics and Communication Engineer'],
+    strings: [ 'Full-Stack Developer!',
+        'Competitive Programmer!',
+        'Electronics & Communication Engineer!',
+        'Tech Enthusiast!'],
     typeSpeed: 100,
     backSpeed: 50,
     backDelay: 1000,
